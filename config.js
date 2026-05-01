@@ -27,8 +27,8 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+  name: "Fardeen",
+  photo: "./img/fardeen.jpeg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -70,17 +70,17 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy birthday Cutieeeeeeeeee !! Wishing you a wonderful year ahead filled with joy, love, and endless happiness and lots of kisses!",
       buttonText: "Send",
     },
     {
       type: "ideas",
       lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
+        "I hope you alwazs remain as happy as your are may Allah Bless you.",
+        "Bs mjhe tang thora kam kia kro.",
+        "Baqi yehi ke i miss you alot and hope we seeeee each other very <strong>SOOOON</strong>.",
         "Because,",
-        "You are Special <span>:)</span>",
+        "Apke bina zindagi is empty empty <span>:)</span>",
       ],
       bigLetters: "SO",
     },
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "May I alwazs keep you happy and may Allah bless you with the best. and misssss meeee.)",
     },
     {
       type: "fireworks",
@@ -112,8 +112,8 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
-      replayText: "Or click, if you want to watch it again.",
+      text: "Umeed hai apko acha laga huga baqi I LOVE YOU cutieeee",
+      replayText: "Dubara dekhne ke liye dabaein ",
     },
   ],
 };
